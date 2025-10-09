@@ -1,4 +1,4 @@
-# 👩‍💻 Nimisha Kumari | Web Development & C Enthusiast
+# 👩‍💻 Nimisha Kumari | MERN STACK || PYTHON 
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Nimisha%20Kumari&fontSize=80&animation=fadeIn)
 
