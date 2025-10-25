@@ -1,7 +1,12 @@
 <!-- Header Section -->
-<!-- Creative ASCII Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=2000&color=00CFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nimisha+Kumari+🚀;Creative+Developer+%7C+Designer+of+Ideas;Where+Logic+Meets+Art+%E2%9C%A8" alt="Typing Animation" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=3000&color=00CFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nimisha+Kumari+🚀;Creative+Developer+%7C+Designer+of+Ideas;Where+Logic+Meets+Art+%E2%9C%A8" alt="Typing Animation" />
+</p>
+
+<!-- Static Computing Art -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/img/dev-working.gif" alt="Coding gif" width="500"/>
 </p>
 <h2 align="center">✨ MERN Stack Developer | 🧠 Pythonista | 🌍 Future Innovator</h2>
 
