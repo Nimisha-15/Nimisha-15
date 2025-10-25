@@ -1,7 +1,62 @@
-<!-- Header Section -->
+<!-- 🧠 Header Section -->
 <p align="center">
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=3000&color=00CFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nimisha+Kumari+🚀;Creative+Developer+%7C+Designer+of+Ideas;Where+Logic+Meets+Art+%E2%9C%A8" alt="Typing Animation" />
+</p>
+
+<!-- 🌈 Custom SVG Coding Illustration -->
+<p align="center">
+  <svg viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Gradient background -->
+      <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#00CFFF" />
+        <stop offset="100%" stop-color="#8E2DE2" />
+      </linearGradient>
+      <!-- Glow for screen -->
+      <radialGradient id="screenGlow" cx="50%" cy="50%" r="70%">
+        <stop offset="0%" stop-color="#00FFF7" stop-opacity="0.8" />
+        <stop offset="100%" stop-color="transparent" />
+      </radialGradient>
+    </defs>
+
+    <!-- Background -->
+    <rect width="600" height="300" fill="url(#bgGradient)" rx="12" />
+
+    <!-- Desk -->
+    <rect x="0" y="250" width="600" height="50" fill="#1a1a1a" />
+
+    <!-- Laptop base -->
+    <rect x="240" y="160" width="120" height="70" rx="6" fill="#2b2b2b" stroke="#444" stroke-width="2" />
+
+    <!-- Laptop screen -->
+    <rect x="225" y="100" width="150" height="90" rx="6" fill="#0a0a0a" stroke="#555" stroke-width="2" />
+    <rect x="225" y="100" width="150" height="90" rx="6" fill="url(#screenGlow)" opacity="0.6" />
+
+    <!-- Code lines inside screen -->
+    <text x="240" y="120" font-family="Fira Code, monospace" font-size="10" fill="#00FFF7">const creativity =</text>
+    <text x="240" y="135" font-family="Fira Code, monospace" font-size="10" fill="#00FFF7">   'transforming ideas';</text>
+    <text x="240" y="150" font-family="Fira Code, monospace" font-size="10" fill="#00FFF7">console.log(creativity);</text>
+
+    <!-- Person (abstract silhouette) -->
+    <circle cx="200" cy="160" r="25" fill="#FFE5B4" />
+    <rect x="185" y="180" width="30" height="40" rx="8" fill="#2b2b2b" />
+    <path d="M185,185 Q200,160 215,185" fill="#2b2b2b" /> <!-- arms typing -->
+
+    <!-- Decorative creative spark -->
+    <circle cx="450" cy="130" r="6" fill="#FFF700">
+      <animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="430" y="160" font-size="14" font-family="Poppins, sans-serif" fill="#ffffff">
+      Innovating with Imagination ✨
+    </text>
+
+    <!-- Footer tag -->
+    <text x="180" y="290" font-size="12" font-family="Poppins, sans-serif" fill="#e0e0e0">
+      Crafted with ❤️ by Nimisha Kumari
+    </text>
+  </svg>
 </p>
 
 <!-- Static Computing Art -->
