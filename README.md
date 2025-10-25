@@ -1,6 +1,8 @@
 <!-- Header Section -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,30,50&height=220&section=header&text=Nimisha%20Kumari🚀&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff)
-
+<!-- Creative ASCII Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=2000&color=00CFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nimisha+Kumari+🚀;Creative+Developer+%7C+Designer+of+Ideas;Where+Logic+Meets+Art+%E2%9C%A8" alt="Typing Animation" />
+</p>
 <h2 align="center">✨ MERN Stack Developer | 🧠 Pythonista | 🌍 Future Innovator</h2>
 
 <p align="center">
@@ -29,7 +31,7 @@ I love building **scalable, modern, and impactful** digital experiences that mak
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### ⚙️ **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -43,6 +45,7 @@ I love building **scalable, modern, and impactful** digital experiences that mak
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDb Compass](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=MongoDBCompass&logoColor=white)
 
 ---
 
@@ -79,7 +82,7 @@ I love building **scalable, modern, and impactful** digital experiences that mak
 
 | 🧰 Project        | 🚀 Tech Used          | 📌 Description                                          |
 |------------------|----------------------|--------------------------------------------------------|
-| **Portfolio Site** | React, Tailwind, Vercel | A sleek personal portfolio showcasing my work & journey |
+| **Portfolio Site** | React, TailwindCSS , Vercel | A sleek personal portfolio showcasing my work & journey |
 | **Task Tracker**   | MERN Stack              | A responsive task management app with authentication    |
 | **Weather App**    | HTML, CSS, JS, API      | Real-time weather forecasting app                       |
 
