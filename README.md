@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/img/dev-working.gif" alt="Coding gif" width="500"/>
 </p>
-<h2 align="center">✨ Software Developer  | Platform handles lakhs of user reguest</h2>
+<h2 align="center">✨ Software Developer  | Interactive Platforms</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Hello+World!+I'm+Nimisha+👩‍💻;I+Build+Scalable+and+Interactive+Web+Apps+🌐;Clean+Code+%2B+Powerful+UI+%3D+🔥;Open-Source+%7C+Problem+Solver+%7C+Learner+🚀" alt="Typing SVG" />
