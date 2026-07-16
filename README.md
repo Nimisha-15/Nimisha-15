@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/img/dev-working.gif" alt="Coding gif" width="500"/>
 </p>
-<h2 align="center">✨ MERN Stack Developer  | 🌍 Future Innovator</h2>
+<h2 align="center">✨ Software Developer  | Platform handles lakhs of user reguest</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Hello+World!+I'm+Nimisha+👩‍💻;I+Build+Scalable+and+Interactive+Web+Apps+🌐;Clean+Code+%2B+Powerful+UI+%3D+🔥;Open-Source+%7C+Problem+Solver+%7C+Learner+🚀" alt="Typing SVG" />
@@ -57,6 +57,7 @@ I love building **scalable, modern, and impactful** digital experiences that mak
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-61DGFB?style=for-the-badge&logo=typescript&logoColor=black)
 
 
 ### ⚙️ **Backend & Database**
