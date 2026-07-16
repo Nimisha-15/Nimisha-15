@@ -71,7 +71,7 @@ I love building **scalable, modern, and impactful** digital experiences that mak
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDb Compass](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=MongoDBCompass&logoColor=white)
+![MongoDb Compass](https://img.shields.io/badge/MongoDbCompass-563D7C?style=for-the-badge&logo=MongoDBCompass&logoColor=white)
 
 ---
 
