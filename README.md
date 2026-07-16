@@ -111,9 +111,9 @@ I love building **scalable, modern, and impactful** digital experiences that mak
 
 | 🧰 Project        | 🚀 Tech Used          | 📌 Description                                          |
 |------------------|----------------------|--------------------------------------------------------|
-| **Portfolio Site** | React, TailwindCSS , Vercel | A sleek personal portfolio showcasing my work & journey |
-| **Task Tracker**   | MERN Stack              | A responsive task management app with authentication    |
-| **Weather App**    | HTML, CSS, JS, API      | Real-time weather forecasting app                       |
+| **Recruitment and Blog App** | TypeScript, TailwindCSS , Vercel | A platform for blog post pannel lead by me for user and admin both and recruitment admin pannel bug fixing|
+| **BOX.ai**   | MERN Stack              | A responsive ai app with image text feature handle multiple request at same time    |
+
 
 👉 *Check out my [Repositories](https://github.com/Nimisha-15?tab=repositories) for more!*
 
